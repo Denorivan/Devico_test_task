@@ -1,0 +1,4 @@
+TASK 2
+
+Xpath for button: /html/body/div/div/div[@class="home"]/section/div/div/div/a/div[text()='Get in Touch']
+CSS selector for button: .home-top-section__button-container .button
