@@ -1,0 +1,16 @@
+TASK 1:
+1 20 years
+2 I'm from kharkiv, and leaving there until the war
+3 I was in a base camp in nix and when I had to almost hand in the final project to get an offer, the war started and we were just successfully abandoned
+4 When I was preparing the final project, I wondered how I could test my application and got to automated testing for Java/Silenium/Testing. After I studied and used the functionality, it fascinated me and I began to learn test automation
+5 Self-training
+6 Spoken/written intermediate+ /understanding might all that saying
+7.1 Haven't used it but take a little time to learn
+7.2 Experienced with MySql
+7.3 Using devtools console
+7.4 I know haow write Xpath/CSS selectors
+8 I hope that in a year of work I will rise to the level of middle, or at least get as close as possible to it
+9 If it does not harm my health and personal life, then positively
+10 Probation 300-400$, after 550-750
+11 Minimum 1000$, but ideally 1500$
+12 2 days after positive response
