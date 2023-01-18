@@ -1,0 +1,4 @@
+TASK 2
+
+Xpath for button: //a[@class="home-top-section__button-container"]/div
+CSS selector for button: .home-top-section__button-container .button
